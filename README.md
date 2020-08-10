@@ -9,5 +9,6 @@ GitHub organisations linked in my profile.
 - Organisations I contribute to: @PDLPorters, @Perl5-Alien
 - Organisations I am currently building: @EntropyOrg, @project-renard, @Intertangle, @ikiwiki-tavi
 - My uploaded CPAN projects: @zmughal-p5CPAN, 
+- Other contributions as forks: @zmughal-contrib
 - Biomedical image analysis: @CBL-ORION
 - Computer Science @ University of Houston: @CougarCS, @UHCodeRED
