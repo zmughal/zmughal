@@ -6,9 +6,9 @@ GitHub organisations linked in my profile.
 
 ## Organisations
 
-- Organisations I contribute to: [@PDLPorters](https://github.com/PDLPorters), [@Perl5-Alien](https://github.com/Perl5-Alien)
-- Organisations I am currently building: [@EntropyOrg](https://github.com/EntropyOrg), [@project-renard](https://github.com/project-renard), [@Intertangle](https://github.com/Intertangle), [@ikiwiki-tavi](https://github.com/ikiwiki-tavi)
-- My uploaded CPAN projects: [@zmughal-p5CPAN](https://github.com/zmughal-p5CPAN)
-- Other contributions as forks: [@zmughal-contrib](https://github.com/zmughal-contrib)
-- Biomedical image analysis: [@CBL-ORION](https://github.com/CBL-ORION)
-- Computer Science @ University of Houston: [@CougarCS](https://github.com/CougarCS), [@UHCodeRED](https://github.com/UHCodeRED)
+- Organisations I contribute to: [**@PDLPorters**](https://github.com/PDLPorters), [**@Perl5-Alien**](https://github.com/Perl5-Alien)
+- Organisations I am currently building: [**@EntropyOrg**](https://github.com/EntropyOrg), [**@project-renard**](https://github.com/project-renard), [**@Intertangle**](https://github.com/Intertangle), [**@ikiwiki-tavi**](https://github.com/ikiwiki-tavi)
+- My uploaded CPAN projects: [**@zmughal-p5CPAN**](https://github.com/zmughal-p5CPAN)
+- Other contributions as forks: [**@zmughal-contrib**](https://github.com/zmughal-contrib)
+- Biomedical image analysis: [**@CBL-ORION**](https://github.com/CBL-ORION)
+- Computer Science @ University of Houston: [**@CougarCS**](https://github.com/CougarCS), [**@UHCodeRED**](https://github.com/UHCodeRED)
