@@ -12,3 +12,4 @@ GitHub organisations linked in my profile.
 - Other contributions as forks: [**@zmughal-contrib**](https://github.com/zmughal-contrib)
 - Biomedical image analysis: [**@CBL-ORION**](https://github.com/CBL-ORION)
 - Computer Science @ University of Houston: [**@CougarCS**](https://github.com/CougarCS), [**@UHCodeRED**](https://github.com/UHCodeRED)
+- Talks / Publications: [**@zmughal-biblio**](https://github.com/zmughal-biblio)
