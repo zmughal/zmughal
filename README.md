@@ -16,7 +16,7 @@ GitHub organisations linked in my profile.
   [**@orbital-transfer**](https://github.com/orbital-transfer),
   [**@ikiwiki-tavi**](https://github.com/ikiwiki-tavi)
 - My uploaded CPAN projects:
-  [**@zmughal-p5CPAN**](https://github.com/zmughal-p5CPAN)
+  [**@zmughal-CPAN**](https://github.com/zmughal-CPAN)
 - Other contributions as forks:
   [**@zmughal-contrib**](https://github.com/zmughal-contrib)
 - Biomedical image analysis:
