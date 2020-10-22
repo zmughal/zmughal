@@ -33,3 +33,10 @@
 - [**@project-renard-data**](https://github.com/project-renard-data)
 - [**@project-renard-experiment**](https://github.com/project-renard-experiment)
 - [**@project-renard-survey**](https://github.com/project-renard-survey)
+
+## zmughal
+
+- [**@zmughal-CPAN**](https://github.com/zmughal-CPAN)
+- [**@zmughal-archive**](https://github.com/zmughal-archive)
+- [**@zmughal-biblio**](https://github.com/zmughal-biblio)
+- [**@zmughal-contrib**](https://github.com/zmughal-contrib)
