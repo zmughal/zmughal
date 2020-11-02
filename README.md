@@ -14,7 +14,7 @@ GitHub organisations linked in my profile.
   [**@project-renard**](https://github.com/project-renard),
   [**@Intertangle**](https://github.com/Intertangle),
   [**@orbital-transfer**](https://github.com/orbital-transfer),
-  [**@ikiwiki-tavi**](https://github.com/ikiwiki-tavi)
+  [**@ikiwiki-dakine**](https://github.com/ikiwiki-dakine)
 - My uploaded CPAN projects:
   [**@zmughal-CPAN**](https://github.com/zmughal-CPAN)
 - Other contributions as forks:
