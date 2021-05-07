@@ -27,7 +27,7 @@
 
 - [**@orbital-transfer**](https://github.com/orbital-transfer)
 - [**@orbital-transfer-archive**](https://github.com/orbital-transfer-archive)
-- [**@orbital-transfer-package**](https://github.com/orbital-transfer-package)
+- [**@orbital-transfer-database**](https://github.com/orbital-transfer-database)
 - [**@orbital-transfer-survey**](https://github.com/orbital-transfer-survey)
 
 ## project-renard
