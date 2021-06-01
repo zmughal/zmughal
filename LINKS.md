@@ -1,1 +1,2 @@
+- [MetaCPAN: ZMUGHAL](https://metacpan.org/author/ZMUGHAL)
 - [Repology: zmughal@cpan](https://repology.org/maintainer/zmughal%40cpan)
