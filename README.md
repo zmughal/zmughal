@@ -10,8 +10,8 @@ GitHub organisations linked in my profile.
   [**@PDLPorters**](https://github.com/PDLPorters),
   [**@PerlAlien**](https://github.com/PerlAlien)/[**@Perl5-Alien**](https://github.com/Perl5-Alien),
   [**@Perl-GPU**](https://github.com/Perl-GPU),
-  [**Perl-OpenMP**](https://github.com/Perl-OpenMP),
-  [**perlrdf**](https://github.com/perlrdf)
+  [**@Perl-OpenMP**](https://github.com/Perl-OpenMP),
+  [**@perlrdf**](https://github.com/perlrdf)
 - Organisations I am currently building:
   [**@EntropyOrg**](https://github.com/EntropyOrg),
   [**@project-renard**](https://github.com/project-renard),
