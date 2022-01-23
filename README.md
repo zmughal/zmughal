@@ -9,13 +9,16 @@ GitHub organisations linked in my profile.
 - Organisations I contribute to:
   [**@PDLPorters**](https://github.com/PDLPorters),
   [**@PerlAlien**](https://github.com/PerlAlien)/[**@Perl5-Alien**](https://github.com/Perl5-Alien),
-  [**@Perl-GPU**](https://github.com/Perl-GPU)
+  [**@Perl-GPU**](https://github.com/Perl-GPU),
+  [**Perl-OpenMP**](https://github.com/Perl-OpenMP),
+  [**perlrdf**](https://github.com/perlrdf)
 - Organisations I am currently building:
   [**@EntropyOrg**](https://github.com/EntropyOrg),
   [**@project-renard**](https://github.com/project-renard),
   [**@Intertangle**](https://github.com/Intertangle),
   [**@orbital-transfer**](https://github.com/orbital-transfer),
-  [**@ikiwiki-dakine**](https://github.com/ikiwiki-dakine)
+  [**@ikiwiki-dakine**](https://github.com/ikiwiki-dakine),
+  [**@Epidermis**](https://github.com/Epidermis)
 - My uploaded CPAN projects:
   [**@zmughal-CPAN**](https://github.com/zmughal-CPAN),
   [**@zmughal**](https://github.com/search?q=user%3Azmughal+topic%3Acpan&type=repositories)
