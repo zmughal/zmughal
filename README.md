@@ -31,3 +31,5 @@ GitHub organisations linked in my profile.
   [**@UHCodeRED**](https://github.com/UHCodeRED)
 - Talks / Publications:
   [**@zmughal-biblio**](https://github.com/zmughal-biblio)
+- Configurations and utilities:
+  [**@zmughal-utils**](https://github.com/zmughal-utils)
